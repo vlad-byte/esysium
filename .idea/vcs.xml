@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elysium_2.0/LLM_as_a_judge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elysium_2.0/elysium-lk-back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elysium_2.0/elysium-lk-front" vcs="Git" />
+  </component>
+</project>
